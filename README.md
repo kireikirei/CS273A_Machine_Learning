@@ -11,7 +11,7 @@ https://archive.ics.uci.edu/ml/datasets/Adult
 
 https://github.com/kireikirei/CS273A_Machine_Learning/blob/main/README.md#:~:text=CS273a_Project_random_forest is the code with implementation of data visulization, preprocessing, feature selection, training of random forest and model evaluation.
 
-Project Requirements:
+## Project Requirements:
 
 Explore the various aspects of the data, visualizing and analyzing it in different ways. It is really important that you are familiar with it. You should describe how you made various design choices, based on the dataset exploration.
 
