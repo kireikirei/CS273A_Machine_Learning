@@ -1,5 +1,6 @@
 # CS273A_Machine_Learning
 CS273A ML final projects
+
 The purpose of this project is to develop classification models that can accurately predict whether the
 income of an individual is over 50K per year by exploring and analyzing the Adult dataset. In this
 project, we will conduct various visualization to explore the data. Moreover, we will perform data
