@@ -8,3 +8,7 @@ model which has the best performance in predicting income based on the available
 
 Below is the Adult Data Set url:
 https://archive.ics.uci.edu/ml/datasets/Adult
+
+
+
+https://github.com/kireikirei/CS273A_Machine_Learning/blob/main/README.md#:~:text=CS273a_Project_random_forest is the code with implementation of data visulization, preprocessing, feature selection, training of random forest and model evaluation.
